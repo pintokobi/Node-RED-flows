@@ -47,4 +47,5 @@ RabbitMQ Management: http://10.112.10.72:15672/
 go to Queues tab and see the traffic while pressing on the inject nodes.
 
 
+http://en.wikipedia.org/wiki/Kobi_Peretz
 
