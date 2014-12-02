@@ -48,4 +48,4 @@ go to Queues tab and see the traffic while pressing on the inject nodes.
 
 
 
-[![Build Status] http://upload.wikimedia.org/wikipedia/commons/d/da/Kobi_perez.jpg
+[![Build Status]http://upload.wikimedia.org/wikipedia/commons/d/da/Kobi_perez.jpg]
